@@ -12,7 +12,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### Design Systems
+
+###
+    You can also visit https://educa-sand.vercel.app/ to view the dashboard
+### Design Systems  
 
     I made us of Chakra-Ui as my design system
 
@@ -32,3 +35,7 @@ You will also see any lint errors in the console.
 ### Font
 
 - Weights: bold
+
+
+
+### This is not the complete solution.
